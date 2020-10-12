@@ -27,5 +27,5 @@ func main() {
 		i = i + 1
 	}
 
-	println(resultado)
+	fmt.Println(resultado)
 }
